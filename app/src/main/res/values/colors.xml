@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="appToolbar">#29A3EC</color>
+    <color name="close">#EC2929</color>
+    <color name="check">#8ECC4B</color>
+    <color name="audioBtn">#60DE65</color>
+</resources>
